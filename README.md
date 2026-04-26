@@ -18,6 +18,4 @@ This site was built as a token of appreciation for the amazing friendships that 
 
 ## 🔗 Live Site
 
-You can visit the live version here:  
-**[https://baburao2342.github.io/sigma](https://baburao2342.github.io/sigma)**
-
+You can visit the live version **[here](https://natzukashi.github.io/sigma/)**
